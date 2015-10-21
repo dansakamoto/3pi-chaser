@@ -1,7 +1,7 @@
 # 3pi-chaser
 
-We aim to stage a small drama between two robotic actors; one afraid of light, one afraid of physical objects. We programmed their personalities and predispositions toward each other, but how they physically interact depends entirely upon them. By finessing the actors’ behaviors and designing their physical appearances, we explore the boundaries between simple mechanical actions and their relatability as human emotions. 
+Scaredybots is a scene in which two creatures trapped in a labyrinth, searching for a way out. Each has a single sense for detecting danger; one can detect light, the other can detect physical objects. Although they don’t pose a threat to each other, each possesses a trait that makes it frightening to the other.
 
-We are using light and distance sensing as the medium of interaction. One robot (Po) has a proximity sensor and a light while the other (Lulu) has an ambient light sensor. Hence, the robots are both scared of each other and scared of things encountered in the environment. Under normal circumstances, the robots follow lines on a course– that is, until fright leads them off track.
+As they are left to explore and interact with each other, we are able to simultaneously observe them from above, as if creatures in a zoo, or we can witness their struggle from their own point of view.
 
-From above, we see them as pets. We identify them as people outside of our own consciences. To an outside perspective, it is difficult to truly understand the robots’ fear; but, once we frame the world from the eyes of the robots, the viewers can directly empathize with the uncertainty awaiting them around every corner. 
+Full description of project available at http://courses.ideate.cmu.edu/physcomp/f15/60-223/3pi-scaredybot/
